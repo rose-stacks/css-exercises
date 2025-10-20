@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.action{
+background-color:black;
+color:white;
+}
+
+.off{
+background-color:yellow;
+}
+
+.action,.off{
+font-size:28px;
+font-family:'Times New Roman', sans-serif;
+}
