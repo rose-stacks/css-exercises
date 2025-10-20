@@ -1,1 +1,32 @@
 /* Add CSS Styling */
+.odd{
+    background-color:rgb(252, 146, 145);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+
+.odd.special{
+    font-size:24px;
+}
+
+#even{
+color:blue;
+font-size:36px;
+}
+
+#another{
+    background-color:rgb(165, 254, 165);
+    font-size:24px;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*The fourth element: a light green background, a font size of 24px, and bold*\
